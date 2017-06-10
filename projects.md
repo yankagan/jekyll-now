@@ -19,7 +19,7 @@ VARD uses a prior that promotes sparsity in the pixel/voxel differences domain a
 relative to the data-fit is determined automatically from the data. VARD saves the agonizing pain of choosing values
 for the tuning parameters; it can also save a lot of time spend on this task.
 
-In this demo we compare VARD to the maximum likelihood estimator in [4] and also to a penalized likelihood estimator [1].  
+The demo is available here: https://github.com/yankagan/VARD-for-CT. We compare VARD to the maximum likelihood estimator in [4] and also to a penalized likelihood estimator [1].  
 All the algorithms in the demo use separable surrogates which reduce the algorithms to parallel line searches, 
 making them feasible for large scale problems such as x-ray CT.
 
@@ -30,4 +30,4 @@ but these are not considered here.
 1. Y. Kaganovsky, S. Han, S. Degirmenci, D. G. Politte, D. J. Brady, J. A. O'Sullivan and L. Carin, Alternating Minimization Algorithm with Automatic Relevance Determination for Transmission Tomography under Poisson Noise,  SIAM Journal on Imaging Sciences, 8(3), 2015.  
 2. R. M. Neal, Bayesian Learning for Neural Networks, PhD Thesis, 1995. 
 3. M. E. Tipping, Sparse Bayesian Learning and the Relevance Vector Machine, Journal of Machine Learning Research, 2001. 
-4. J. A. O'Sullivan and J. Benac, Alternating Minimization Algorithm for Transmission Tomography, IEEE Trans. on Medical Imaging, 2
+4. J. A. O'Sullivan and J. Benac, Alternating Minimization Algorithm for Transmission Tomography, IEEE Trans. on Medical Imaging, 2007.
