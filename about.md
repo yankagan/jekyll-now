@@ -4,12 +4,6 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+### About Me 
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+I'm conducting research in deep learning with applications to computer vision in the perceptual computing group @ Intel. There I work on probelms such as skeleton tracking, person detection, face recognition, etc. Before that, I did post-doc at Duke University, conducted academic research in several different fields, including: machine learning and computational imaging. Before that I did my PhD at Tel-Aviv University where I worked on solving wave propagation problems. In my spare time, I like to learn as much as I can about artificial inteligence and machine learning and publicly communicate the things I've learned. 
