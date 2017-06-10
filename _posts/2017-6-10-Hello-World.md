@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My First Blog Post
+title: Under Construction 
 ---
 
-This is a test to see if I can create a post using jekyll.
+I am in the process of porting my website... Sorry for the inconvenience 
