@@ -6,7 +6,7 @@ permalink: /projects/
 
 ## Non-Convex Optimization for Large-Scale Embedded Feature Selection in Classification 
 We provide a demo of the parallel majorization-minimization algorithm for non-convex optimization in machine learning 
-that was published in [1] (see also slides here [2]). Code is avaliable here: https://github.com/yankagan/PMM-DRD.
+that was published in [1] (see also slides here [2]). [Code is avaliable here](https://github.com/yankagan/PMM-DRD).
 
 We proposed an optimization framework for nonconvex problems based on majorization-minimization that is particularity well-suited for cases when the number of features/parameters is very large. The original problem is broken into smaller parallel sub-problems while still guaranteeing the monotonic reduction of the original objective function and convergence to a local minimum. Due to the low dimensionality of each sub-problem, second-order optimization methods become computationally feasible and can be used to accelerate convergence. 
 
@@ -38,7 +38,7 @@ VARD uses a prior that promotes sparsity in the pixel/voxel differences domain a
 relative to the data-fit is determined automatically from the data. VARD saves the agonizing pain of choosing values
 for the tuning parameters; it can also save a lot of time spend on this task.
 
-The demo is available here: https://github.com/yankagan/VARD-for-CT. We compare VARD to the maximum likelihood estimator in [4] and also to a penalized likelihood estimator [1].  
+[The demo is available here](https://github.com/yankagan/VARD-for-CT). We compare VARD to the maximum likelihood estimator in [4] and also to a penalized likelihood estimator [1].  
 All the algorithms in the demo use separable surrogates which reduce the algorithms to parallel line searches, 
 making them feasible for large scale problems such as x-ray CT.
 
