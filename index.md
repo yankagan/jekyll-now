@@ -34,15 +34,18 @@ Intel Corp <br />
 2016-present
 
 * Postdoctoral Associate <br />
-Department of Electrical and Computer Engineering, Duke University <br />
+Department of Electrical and Computer Engineering <br />
+Duke University <br />
 2012-2016
 
 * Research and Teaching Assistant <br />
-Department of Electrical Engineering, Tel Aviv University <br />
+Department of Electrical Engineering <br />
+Tel Aviv University <br />
 2008-2011
 
 * Research and Teaching Assistant <br />
-Department of Electrical and Computer Engineering, Ben-Gurion University <br />
+Department of Electrical and Computer Engineering <br />
+Ben-Gurion University <br />
 2004-2007
 
 * System/RF Engineer <br />
