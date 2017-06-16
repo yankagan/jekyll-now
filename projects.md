@@ -38,9 +38,7 @@ VARD uses a prior that promotes sparsity in the pixel/voxel differences domain a
 relative to the data-fit is determined automatically from the data. VARD saves the agonizing pain of choosing values
 for the tuning parameters; it can also save a lot of time spend on this task.
 
-[The demo is available here](https://github.com/yankagan/VARD-for-CT). We compare VARD to the maximum likelihood estimator in [4] and also to a penalized likelihood estimator [1].  
-All the algorithms in the demo use separable surrogates which reduce the algorithms to parallel line searches, 
-making them feasible for large scale problems such as x-ray CT.
+[The demo is available here](https://github.com/yankagan/VARD-for-CT). We compare VARD to the maximum likelihood estimator in [4] and also to a penalized likelihood estimator [1]. All the algorithms in the demo use separable surrogates which reduce the algorithms to parallel line searches, making them feasible for large scale problems such as x-ray CT.
 
 The algorithms can be sped up considerably using various techniques (e.g., using a better initialization, ordered subsets) 
 but these are not considered here.
