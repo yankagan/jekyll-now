@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-# Journal Articles:
+# Journal Articles
 
 1. Parallel Majorization Minimization with Dynamically Restricted Domains for Nonconvex Optimization, Y. Kaganovsky, I. Odinaka, D. Carlson and L. Carin, Journal of Machine Learning Research W&CP Vol. 51: Proc. 19th Conference on Artificial Intelligence and Statistics(AISTATS) 2016 (acceptance rate: 30%).
 
@@ -24,9 +24,9 @@ permalink: /publications/
 
 9. Determination of the Pole-Singularity Order in Spectral Method of Moments Formulations for Source-Free Planar Periodic Structures, Y. Kaganovsky and R. Shavit, IEEE Transactions on Antennas & Propagation., Vol. 56, No.6, pp. 1822-1825, June 2008.
 
-# Conference Proceedings :
+# Conference Proceedings
 
-1. Domain and Range Decomposition Methods for Coded Aperture X-Ray Coherent Scatter Imaging, I. Odinaka,  Y. Kaganovsky, D. Politte, J. O'Sullivan, J. Greenberg, L. Carin, and D. Brady, SPIE Conference on Defense and Commercial Sensing, Apr. 2016.     
+1. Domain and Range Decomposition Methods for Coded Aperture X-Ray Coherent Scatter Imaging, I. Odinaka,  Y. Kaganovsky, D. Politte, J. O'Sullivan, J. Greenberg, L. Carin, and D. Brady, SPIE Conference on Defense and Commercial Sensing, Apr. 2016.
 
 2. Coded Aperture X-Ray Diffraction Imaging with Transmission Computed Tomography Side-Information, I. Odinaka, J. Greenberg, Y. Kaganovsky, A. Holmgren, M. Hassan, D. Politte, J. O'Sullivan, L. Carin, and D. Brady, SPIE Conference on Medical Imaging, Feb. 2016.     
 
