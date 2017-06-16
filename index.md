@@ -18,37 +18,37 @@ learning and engage in pet projects, which I'm happy to share on Github.
 Tel Aviv University, Israel <br />
 2008 - 2011
 
-M. Sc. in Electrical and Computer Engineering
-Summa Cum Laude
-Ben-Gurion University, Israel
+* M. Sc. in Electrical and Computer Engineering <br />
+Summa Cum Laude <br />
+Ben-Gurion University, Israel <br />
 2004 - 2007
 
-B.Sc. in Electrical and Computer Engineering
-Ben-Gurion University, Israel
+* B.Sc. in Electrical and Computer Engineering <br />
+Ben-Gurion University, Israel <br />
 2000-2004 
 
 ## Employment 
 
-Research Scientist
-Intel Corp
+* Research Scientist <br />
+Intel Corp <br />
 2016-present
 
-Postdoctoral Associate
-Department of Electrical and Computer Engineering, Duke University
+* Postdoctoral Associate <br />
+Department of Electrical and Computer Engineering, Duke University <br />
 2012-2016
 
-Research and Teaching Assistant
-Department of Electrical Engineering, Tel Aviv University
+* Research and Teaching Assistant <br />
+Department of Electrical Engineering, Tel Aviv University <br />
 2008-2011
 
-Research and Teaching Assistant
-Department of Electrical and Computer Engineering, Ben-Gurion University
+* Research and Teaching Assistant <br />
+Department of Electrical and Computer Engineering, Ben-Gurion University <br />
 2004-2007
 
-System/RF Engineer
-The Israeli 4th Generation Wireless Network Consortium (REMON).
+* System/RF Engineer <br />
+The Israeli 4th Generation Wireless Network Consortium (REMON) <br />
 2004-2005
 
-RF Engineer
-ELTA systems Inc, Israeli Aerospace Industries (IAI).
+* RF Engineer <br />
+ELTA systems Inc, Israeli Aerospace Industries (IAI) <br />
 2003-2004 (final project for B.Sc)
