@@ -14,7 +14,7 @@ learning and engage in pet projects, which I'm happy to share on Github.
 
 ## Education 
 
-Ph.D. in Electrical Engineering
+Ph.D. in Electrical Engineering \n
 Tel Aviv University, Israel
 2008 - 2011
 
