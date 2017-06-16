@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 
-### Non-Convex Optimization for Large-Scale Embedded Feature Selection in Classification 
+## Non-Convex Optimization for Large-Scale Embedded Feature Selection in Classification 
 We provide a demo of the parallel majorization-minimization algorithm for non-convex optimization in machine learning 
 that was published in [1] (see also slides here [2]). Code is avaliable here: https://github.com/yankagan/PMM-DRD.
 
@@ -19,11 +19,11 @@ The advantages of this algorithm over other gradient-based methods for non-conve
 
 Although the framework in [1] address a wide range of cost functions in the generalized linear model family, the current code only supports two specific models: sigmoid-loss SVM and logistic regression with logarithmic penalty (for promoting stronger sparsity). We hope to make the code more general in the future.
 
-# References
+### References
 1. Y. Kaganovsky, I. Odinaka, D. Carlson, and L. Carin, Parallel Majorization Minimization with Dynamically Restricted Domains for Nonconvex Optimization, Journal of Machine Learning Research W&CP Vol. 51: Proc 19th conference on Artificial Intelligence and Statistics (AISTATS) 2016.
 2.  Y. Kaganovsky, Non-Convex Optimization Made Simpler, presented at Amazon, Seattle, June 2016.
 
-### Image Reconstruction for Computed Tomography
+## Image Reconstruction for Computed Tomography
 We provide a demo of the VARD algorithm for image reconstruction in transmission tomography under Poisson noise [1].
 We consider x-ray computed tomography (CT), but the algorithm applies more generally, e.g., it can be used for electron 
 tomography.  VARD stands for Variational Automatic Relevance Determination and it is an extension of Automatic Relevance 
@@ -45,7 +45,7 @@ making them feasible for large scale problems such as x-ray CT.
 The algorithms can be sped up considerably using various techniques (e.g., using a better initialization, ordered subsets) 
 but these are not considered here.
 
-# References
+### References
 1. Y. Kaganovsky, S. Han, S. Degirmenci, D. G. Politte, D. J. Brady, J. A. O'Sullivan and L. Carin, Alternating Minimization Algorithm with Automatic Relevance Determination for Transmission Tomography under Poisson Noise,  SIAM Journal on Imaging Sciences, 8(3), 2015.  
 2. R. M. Neal, Bayesian Learning for Neural Networks, PhD Thesis, 1995. 
 3. M. E. Tipping, Sparse Bayesian Learning and the Relevance Vector Machine, Journal of Machine Learning Research, 2001. 
