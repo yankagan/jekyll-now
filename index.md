@@ -1,8 +1,7 @@
 ---
 layout: page
+title: About Me
 ---
-
-# About Me
 
 I conduct research in the field of deep learning with applications to computer vision. 
 I work in the perceptual computing group @ Intel, where I work on problems such as skeleton tracking, person detection, 
