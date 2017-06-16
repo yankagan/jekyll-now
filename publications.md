@@ -6,23 +6,25 @@ permalink: /publications/
 
 # Journal Articles
 
-1. Parallel Majorization Minimization with Dynamically Restricted Domains for Nonconvex Optimization, Y. Kaganovsky, I. Odinaka, D. Carlson and L. Carin, Journal of Machine Learning Research W&CP Vol. 51: Proc. 19th Conference on Artificial Intelligence and Statistics(AISTATS) 2016 (acceptance rate: 30%).
+1. Joint System and Algorithm Design for Computationally Efficient Fan Beam Coded Aperture X-ray Coherent Scatter Imaging, Ikenna Odinaka, Joseph A. O’Sullivan, David G. Politte, Kenneth P. MacCabe, Yan Kaganovsky, Joel A. Greenberg, Manu Lakshmanan, Kalyani Krishnamurthy, Anuj Kapadia, Lawrence Carin, and David J. Brady, IEEE Trans. Computational Imaging, 2017 (Accepted). 
 
-2. Alternating Minimization Algorithm with Automatic Relevance Determination for Transmission Tomography under Poisson  Noise, Y. Kaganovsky, S. Han, S. Degirmenci, D. Politte, D. Brady, J. O'Sullivan, and L. Carin, SIAM Journal on Imaging Sciences, 8(3), 2015.   
+2. Parallel Majorization Minimization with Dynamically Restricted Domains for Nonconvex Optimization, Y. Kaganovsky, I. Odinaka, D. Carlson and L. Carin, Journal of Machine Learning Research W&CP Vol. 51: Proc. 19th Conference on Artificial Intelligence and Statistics(AISTATS) 2016 (acceptance rate: 30%).
 
-3. Compressed Sampling Strategies for Tomography, Y. Kaganovsky, D. Li, A. Holmgren, H. Jeon, K. MacCabe, D. Politte, J. O'Sullivan, L. Carin, and D. Brady, Journal of the Optical Society of America A, 31(7),  2014.
+3. Alternating Minimization Algorithm with Automatic Relevance Determination for Transmission Tomography under Poisson  Noise, Y. Kaganovsky, S. Han, S. Degirmenci, D. Politte, D. Brady, J. O'Sullivan, and L. Carin, SIAM Journal on Imaging Sciences, 8(3), 2015.   
 
-4. Non-Paraxial Wave Analysis of 3D Airy Beams, Y. Kaganovsky and E. Heyman, Journal of the Optical Society of America A, Vol. 29, pp. 671-688, 2012.
+4. Compressed Sampling Strategies for Tomography, Y. Kaganovsky, D. Li, A. Holmgren, H. Jeon, K. MacCabe, D. Politte, J. O'Sullivan, L. Carin, and D. Brady, Journal of the Optical Society of America A, 31(7),  2014.
 
-5. Airy Pulsed Beams, Y. Kaganovsky and E. Heyman, Journal of the Optical Society of America A , Vol. 28, pp. 1243-1255, 2011.
+5. Non-Paraxial Wave Analysis of 3D Airy Beams, Y. Kaganovsky and E. Heyman, Journal of the Optical Society of America A, Vol. 29, pp. 671-688, 2012.
 
-6. Wave Analysis of Airy Beams, Y. Kaganovsky and E. Heyman, Optics Express, Vol. 18, pp. 8440-8452, 2010.
+6. Airy Pulsed Beams, Y. Kaganovsky and E. Heyman, Journal of the Optical Society of America A , Vol. 28, pp. 1243-1255, 2011.
 
-7. Analytical Pole-Residue Calculation in Spectral Method of Moments Formulations for Periodic Structures, Y. Kaganovsky and R. Shavit, Progress In Electromagnetics Research (PIERS) M, Vol. 13, pp. 83-94, 2010. 
+7. Wave Analysis of Airy Beams, Y. Kaganovsky and E. Heyman, Optics Express, Vol. 18, pp. 8440-8452, 2010.
 
-8. Analysis of Radiation From a Line Source in a Grounded Dielectric Slab Covered by a Metal Strip Grating, Y. Kaganovsky and R. Shavit, IEEE Transactions on Antennas & Propagation, Vol. 57, pp. 135-143, Jan. 2009. 
+8. Analytical Pole-Residue Calculation in Spectral Method of Moments Formulations for Periodic Structures, Y. Kaganovsky and R. Shavit, Progress In Electromagnetics Research (PIERS) M, Vol. 13, pp. 83-94, 2010. 
 
-9. Determination of the Pole-Singularity Order in Spectral Method of Moments Formulations for Source-Free Planar Periodic Structures, Y. Kaganovsky and R. Shavit, IEEE Transactions on Antennas & Propagation., Vol. 56, No.6, pp. 1822-1825, June 2008.
+9. Analysis of Radiation From a Line Source in a Grounded Dielectric Slab Covered by a Metal Strip Grating, Y. Kaganovsky and R. Shavit, IEEE Transactions on Antennas & Propagation, Vol. 57, pp. 135-143, Jan. 2009. 
+
+10. Determination of the Pole-Singularity Order in Spectral Method of Moments Formulations for Source-Free Planar Periodic Structures, Y. Kaganovsky and R. Shavit, IEEE Transactions on Antennas & Propagation., Vol. 56, No.6, pp. 1822-1825, June 2008.
 
 # Conference Proceedings
 
