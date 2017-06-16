@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About me
-permalink: /about/
 ---
 
 I conduct research in the field of deep learning with applications to computer vision. 
